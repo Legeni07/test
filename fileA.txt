@@ -1,1 +1,4 @@
-je suis le fichier A.
+Le fichier A:
+
+Toto titi tata
+
