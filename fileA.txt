@@ -1,1 +1,1 @@
-Bonjour je suis le fichier A.
+je suis le fichier A.
