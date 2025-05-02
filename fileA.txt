@@ -2,3 +2,4 @@ Le fichier A:
 
 Toto titi tata
 
+Hello
